@@ -7,7 +7,7 @@ const requireAuth =  require('./middleware/requireAuth')
 const authRoutes = require('./routes/authRoutes')
 const app =express()
 
-const mongoURI= 'mongodb+srv://pinnu123:pinnu123@cluster0.sncsn.mongodb.net/<dbname>?retryWrites=true&w=majority'
+const mongoURI= 'abc'
 app.use(bodyParser.json())
 // app.use(routes)
 app.use(authRoutes)
