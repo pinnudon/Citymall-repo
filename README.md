@@ -24,7 +24,7 @@ Now you can Run the application on mobile using expo cli
 NOTE: This all command should be run in terminal window only
 
 
-If you want my mongoURI please visit my website https://priyanshubaluni.me/ and message me over their.
+If you want my mongoURI please visit my website https://priyanshubaluni.me/ and message me over there.
 
 Regards,
 Priyanshu Baluni
